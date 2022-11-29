@@ -1,6 +1,6 @@
 {
   "name": "@w00ing/nestjs-graphql",
-  "version": "0.0.0",
+  "version": "10.1.5",
   "description": "Nest - modern, fast, powerful node.js web framework. GraphQL monorepo",
   "author": "w00ing",
   "license": "MIT",
